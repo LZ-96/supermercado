@@ -1,3 +1,5 @@
+import ponto.py
+#comentario qualquer
 main:
 	#print este e um supermercado
 
